@@ -1,2 +1,2 @@
 test text
-2dupa zbita
+3dupa zbita
